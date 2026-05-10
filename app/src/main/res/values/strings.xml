@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">womens safety</string>
+    <string name="women_s_laws">Women\'s Laws</string>
+
+    <string name="todo1">todo</string>
+    <string name="todo2">TODO</string>
+    <string name="recorder1">Recorder</string>
+    <string name="todo23">todo2</string>
+    <string name="image1">Image</string>
+    <string name="todo33">todo3</string>
+    <string name="video1">Video</string>
+
+    <string name="t1">TODO</string>
+    <string name="tod1">TODO2</string>
+    <string name="details1">Details</string>
+    <string name="aadhaar_no1">Your No :</string>
+    <string name="name1">Your Name :</string>
+    <string name="enter_First_no1">Enter First No:</string>
+
+    <string name="enter_Second_no1">Enter Second No :</string>
+    <string name="age1">Age :</string>
+    <string name="submit">Submit</string>
+    <string name="submit1">Submit</string>
+    <string name="about_the_app1">About The App</string>
+
+</resources>

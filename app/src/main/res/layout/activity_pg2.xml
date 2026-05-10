@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/frame2"
+    tools:context=".pg2"
+    android:orientation="vertical">
+
+
+    <androidx.appcompat.widget.AppCompatImageButton
+        android:id="@+id/womenLawsButton"
+        android:layout_width="180dp"
+        android:layout_height="150dp"
+        android:layout_marginStart="80dp"
+        android:layout_marginTop="90dp"
+        android:layout_marginBottom="16dp"
+        android:background="@drawable/wb2"
+        android:contentDescription="@string/women_s_laws"
+        android:onClick="onWomenLawsButtonClick"/>
+
+        />
+
+    <androidx.appcompat.widget.AppCompatImageButton
+        android:id="@+id/btn_sos"
+        android:layout_width="280dp"
+        android:layout_height="300dp"
+        android:layout_marginStart="40dp"
+        android:layout_marginTop="300dp"
+        android:contentDescription="@string/todo1"
+        android:scaleType="fitXY"
+        android:background="@drawable/sos1" />
+
+
+<!-- <ImageButton
+        android:id="@+id/ima1"
+        android:layout_width="90dp"
+        android:layout_height="100dp"
+        android:layout_marginTop="150dp"
+        android:layout_marginStart="20dp"
+        android:background="@drawable/recorder"
+        android:scaleType="fitXY"
+        android:contentDescription="@string/todo2" />
+
+
+    <TextView
+        android:layout_width="90dp"
+        android:layout_height="30dp"
+        android:textSize="20sp"
+        android:layout_marginTop="260dp"
+        android:layout_marginStart="20dp"
+        android:text="@string/recorder1"
+        android:textColor="@color/black"/>
+
+    <ImageButton
+        android:id="@+id/ima2"
+        android:layout_width="90dp"
+        android:layout_height="100dp"
+        android:layout_marginTop="150dp"
+        android:layout_marginStart="145dp"
+        android:background="@drawable/image"
+        android:scaleType="centerCrop"
+        android:contentDescription="@string/todo23" />
+
+    <TextView
+        android:layout_width="90dp"
+        android:layout_height="30dp"
+        android:textSize="20sp"
+        android:layout_marginTop="260dp"
+        android:layout_marginStart="145dp"
+        android:text="@string/image1"
+        android:textColor="@color/black"/>
+
+    <ImageButton
+        android:id="@+id/ima3"
+        android:layout_width="90dp"
+        android:layout_height="100dp"
+        android:layout_marginStart="260dp"
+        android:layout_marginTop="150dp"
+        android:contentDescription="@string/todo33"
+        android:scaleType="fitCenter"
+        android:background="@drawable/video" />
+
+    <TextView
+        android:layout_width="90dp"
+        android:layout_height="30dp"
+        android:textSize="20sp"
+        android:layout_marginTop="260dp"
+        android:layout_marginStart="260dp"
+        android:text="@string/video1"
+        android:textColor="@color/black"/>
+-->
+</RelativeLayout>
